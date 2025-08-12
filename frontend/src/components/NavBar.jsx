@@ -27,13 +27,13 @@ const NavBar = () => {
       {/* Logo Section */}
       <div className="flex items-center space-x-4">
         <a href="/" className="mask mask-squircle w-12 sm:w-16">
-          <img src="/logo.png" alt="Cosmos-AI Logo" />
+          <img src="/logo.png" alt="Orion-AI Logo" />
         </a>
         <Link
           to="/"
           className="text-xl sm:text-2xl font-bold btn btn-ghost hover:bg-transparent"
         >
-          <span>cosmos</span><span className="text-primary">ai</span>
+          <span>Orion</span><span className="text-primary">ai</span>
         </Link>
       </div>
 
